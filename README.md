@@ -1,23 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-            width: 100%;
-        }
-        .cv-download {
-            text-align: center;
-            margin-top: 20px;
-        }
-        .cv-download a {
-            display: inline-block;
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-        }
-        .cv-download a:hover {
-            background-color: #45a049;
-        }
-    </style>
+     
 </head>
 <body>
  <header>
