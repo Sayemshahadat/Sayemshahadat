@@ -1,5 +1,72 @@
-
-     
+<!DOCTYPE html>
+<html lang="en">
+     <head>
+      <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            margin-top: 0;
+        }
+        .project {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 20px;
+        }
+        .project:last-child {
+            border-bottom: none;
+        }
+        .project h2 {
+            margin-top: 0;
+        }
+        .project p {
+            margin-top: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .cv-download {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .cv-download a {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .cv-download a:hover {
+            background-color: #45a049;
+        }
+    </style>
 </head>
 <body>
  <header>
@@ -52,12 +119,9 @@ Thank you for considering me for your project. I look forward to the opportunity
             <p><a href="https://www.linkedin.com/in/sayem-shahadat-49634a248/">linkedin</a></p>
         </div>
         
-        <div class="cv-download">
+ <div class="cv-download">
             <a href="https://drive.google.com/file/d/1EKpQnZZsZ2ABVkw6DEnFJ1ESlVGY3WD1/view?usp=drive_link" download>Download CV</a>
         </div>
-  
-
-  
-</body>
-</html>
+  </body>
+  </html>
 
