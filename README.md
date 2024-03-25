@@ -8,8 +8,7 @@
 
   <div class="container">
         <div class="project">
-       <h3>Welcome to My Freelancer Portfolio</h3>
-            <p>Hello and welcome! My name is MD SHAHADAT MOURSHED SAYEM, and I'm thrilled to have you here. As a passionate freelancer, I specialize in web designing and developing. With 2 years of experience in the industry, I've had the privilege of working with a diverse range of clients, helping them achieve their goals and bring their projects to life.</p> </br>
+      <p>Hello and welcome! My name is MD SHAHADAT MOURSHED SAYEM, and I'm thrilled to have you here. As a passionate freelancer, I specialize in web designing and developing. With 2 years of experience in the industry, I've had the privilege of working with a diverse range of clients, helping them achieve their goals and bring their projects to life.</p> </br>
 
 **About Me:**
 
