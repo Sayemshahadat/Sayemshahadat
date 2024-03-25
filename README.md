@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <body>
  <header>
@@ -21,18 +21,25 @@ Service 2: Graphics Designing.
 Service 3: Web Designing.
 
  **Why Choose Me?**
+ 
 
 - **Expertise**: I bring a wealth of expertise and knowledge to every project, ensuring top-notch results.
+  
 
 - **Collaboration**: I believe in open communication and collaboration, working closely with my clients to understand their vision and objectives.
+  
 
 - **Reliability**: You can count on me to meet deadlines and deliver projects on time and within budget.
+  
 
 - **Creativity**: I thrive on creativity and innovation, constantly seeking new ways to bring fresh ideas to the table.
+  
 
 **Let's Get Started!**
 
+
 Whether you have a specific project in mind or you're just exploring your options, I'd love to hear from you. Feel free to browse through my portfolio to see examples of my work, and don't hesitate to reach out if you have any questions or would like to discuss how we can work together.
+
 
 
 Thank you for considering me for your project. I look forward to the opportunity to collaborate with you and turn your ideas into reality!
