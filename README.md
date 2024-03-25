@@ -38,7 +38,8 @@ Service 3: Web Designing.</br>
 Whether you have a specific project in mind or you're just exploring your options, I'd love to hear from you. Feel free to browse through my portfolio to see examples of my work, and don't hesitate to reach out if you have any questions or would like to discuss how we can work together.</br>
 
 
-Thank you for considering me for your project. I look forward to the opportunity to collaborate with you and turn your ideas into reality!</p>
+Thank you for considering me for your project. I look forward to the opportunity to collaborate with you and turn your ideas into reality!</p></br>
+  **<p>Adress: Dhaka,Bangladesh</p>**
             <p><a href="+8801815458966">Whatsapp: +8801815458966</a></p>
         </div>
         <div class="project">
@@ -50,7 +51,7 @@ Thank you for considering me for your project. I look forward to the opportunity
             <div class="project">
             <p><a href="https://www.linkedin.com/in/sayem-shahadat-49634a248/">linkedin</a></p>
         </div>
-          <p>Adress: Dhaka,Bangladesh</p>
+        
         <div class="cv-download">
             <a href="https://drive.google.com/file/d/1EKpQnZZsZ2ABVkw6DEnFJ1ESlVGY3WD1/view?usp=drive_link" download>Download CV</a>
         </div>
