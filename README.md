@@ -5,7 +5,7 @@
 <body>
  <header>
         <h1>Welcome to My Freelancer Portfolio</h1>
-        <img src= Screenshot_2023-04-21-09-29-14-95_e2d5b3f32b79de1d45acd1fad96fbb0f (1).jpg"path" alt="Profile Image">
+        <img src= "Screenshot_2023-04-21-09-29-14-95_e2d5b3f32b79de1d45acd1fad96fbb0f (1).jpg"path" alt="Profile Image">
     </header>
 
   <div class="container">
